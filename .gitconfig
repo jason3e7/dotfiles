@@ -1,0 +1,16 @@
+[user]
+	name = jason3e7
+	email = jason3e7@gmail.com
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	log = auto
+[alias]
+	view = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cblueby %an %Cgreen(%cr)%Creset'
+[core]
+	editor = vim
+	autocrlf = false
+[push]
+	default = tracking
+	default = simple
